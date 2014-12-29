@@ -1,14 +1,23 @@
 Major:
-Entire DefInjected folder
+Entire DefInjected folder*
+
+DefInject folder:
+ThingDef
+ThoughtDef
+TraderKindDef
+TraitDef
+WeatherDef
+WorkGiverDef
+WorkTyperDef
 
 Keyed folder:
 ConceptDefs
 Gameplay
 GameplayCommands
 Incidents
-Letters
-Menu_Options
-Messages
+Letters*(revisar)
+Menu_Options*(revisar)
+Messages*(revisar)
 
 Minor:
-Find a proper name for Cryptosleep.
+Find a proper name for Cryptosleep.*(crypto-sono)

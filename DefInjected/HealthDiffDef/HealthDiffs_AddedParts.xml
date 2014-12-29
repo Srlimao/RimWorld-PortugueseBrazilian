@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+    
+    <!-- Added body parts -->
+    
+    <PegLeg.label>perna artificial</PegLeg.label>
+    
+    <Denture.label>dentadura</Denture.label>
+    
+    <SimpleProstheticLeg.label>simples perna protética</SimpleProstheticLeg.label>
+    
+    <SimpleProstheticArm.label>simples braço protético</SimpleProstheticArm.label>
+    
+    <BionicEye.label>olho biônico</BionicEye.label>
+    
+    <BionicArm.label>braço biônico</BionicArm.label>
+    
+    <BionicLeg.label>perna biônicanica</BionicLeg.label>
+    
+    <PowerClaw.label>garra mecânica</PowerClaw.label>
+    
+    <ScytherKnifeProtrusion.label>foice de portusão</ScytherKnifeProtrusion.label>
+    
+</LanguageData>

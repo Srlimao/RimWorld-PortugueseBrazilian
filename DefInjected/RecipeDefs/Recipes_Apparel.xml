@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+    
+    <MakeShirt.label>Fazer camiseta</MakeShirt.label>
+    <MakeShirt.description>Faz uma camiseta.</MakeShirt.description>
+	<MakeShirt.jobString>Fazendo uma camiseta.</MakeShirt.jobString>
+    
+    <MakePants.label>Fazer calças</MakePants.label>
+    <MakePants.description>Faz um par de calças.</MakePants.description>
+    <MakePants.jobString>Fazendo umas calças.<MakePants.jobString>
+	
+    <MakeCowboyHat.label>Fazer chapéu Cowboy</MakeCowboyHat.label>
+    <MakeCowboyHat.description>Faz um chapéu de Cowboy.</MakeCowboyHat.description>
+    <MakeCowboyHat.jobString>Fazendo um chapéu de Cowboy.<MakeCowboyHat.jobString>
+</LanguageData>

@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+    
+  	<!-- new body parts - natural -->
+    
+    <InstallNaturalHeart.label>implantar coração</InstallNaturalHeart.label>
+    <InstallNaturalHeart.description>Implanta um coração.</InstallNaturalHeart.description>
+    <InstallNaturalHeart.jobString>Implantando coração.</InstallNaturalHeart.jobString>
+	
+    <InstallNaturalLiver.label>implantar fígado</InstallNaturalLiver.label>
+    <InstallNaturalLiver.description>implanta um fígado.</InstallNaturalLiver.description>
+    <InstallNaturalLiver.jobString>Implantando fígado.</InstallNaturalLiver.jobString>
+	
+    <InstallNaturalKidney.label>implantar rim</InstallNaturalKidney.label>
+    <InstallNaturalKidney.description>Implanta um rim.</InstallNaturalKidney.description>
+    <InstallNaturalKidney.jobString>Implantando rim.</InstallNaturalKidney.jobString>
+	
+    <InstallNaturalLung.label>implantar pulmão</InstallNaturalLung.label>
+    <InstallNaturalLung.description>implanta um pulmão.</InstallNaturalLung.description>
+    <InstallNaturalLung.jobString>Implantando pulmão.</InstallNaturalLung.jobString>
+	
+  	<!-- new body parts - artificial -->
+    
+    <InstallPegLeg.label>implantar perna-de-pau</InstallPegLeg.label>
+    <InstallPegLeg.description>implanta uma perna-de-pau.</InstallPegLeg.description>
+    <InstallPegLeg.jobString>Implantando perna-de-pau.</InstallPegLeg.jobString>
+	
+    <InstallBionicEye.label>implantar olho biónico</InstallBionicEye.label>
+    <InstallBionicEye.description>Implanta um olho biónico.</InstallBionicEye.description>
+    <InstallBionicEye.jobString>Implantando olho biónico.</InstallBionicEye.jobString>
+	
+    <InstallBionicArm.label>implantar braço biónico</InstallBionicArm.label>
+    <InstallBionicArm.description>Implanta um braço biónico.</InstallBionicArm.description>
+    <InstallBionicArm.jobString>Implantando braço biónico.</InstallBionicArm.jobString>
+	
+    <InstallBionicLeg.label>implantar perna biónica</InstallBionicLeg.label>
+    <InstallBionicLeg.description>Implanta uma perna biónica.</InstallBionicLeg.description>
+    <InstallBionicLeg.jobString>Implantando perna biónica.</InstallBionicLeg.jobString>
+	
+    <InstallSimpleProstheticLeg.label>implantar perna prótetica simples</InstallSimpleProstheticLeg.label>
+    <InstallSimpleProstheticLeg.description>Implanta uma perna prótetica simples.</InstallSimpleProstheticLeg.description>
+    <InstallSimpleProstheticLeg.jobString>Implantando perna prótetica simples.</InstallSimpleProstheticLeg.jobString>
+	
+    <InstallSimpleProstheticArm.label>implantar braço prótetico simples</InstallSimpleProstheticArm.label>
+    <InstallSimpleProstheticArm.description>Implanta um braço prótetico simples.</InstallSimpleProstheticArm.description>
+    <InstallSimpleProstheticArm.jobString>Implantando braço prótetico simples.</InstallSimpleProstheticArm.jobString>
+	
+    <InstallDenture.label>Implantar dentadura</InstallDenture.label>
+    <InstallDenture.description>Implanta uma dentadura.</InstallDenture.description>
+    <InstallDenture.jobString>Implantando dentadura.</InstallDenture.jobString>
+	
+    <InstallPowerClaw.label>Implantar garra mecânica</InstallPowerClaw.label>
+    <InstallPowerClaw.description>Implanta uma garra mecânica.</InstallPowerClaw.description>
+    <InstallPowerClaw.jobString>Implantando garra mecânica.</InstallPowerClaw.jobString>
+	
+    <InstallScytherKnifeProtrusion.label>Implantar protusão de foice</InstallScytherKnifeProtrusion.label>
+    <InstallScytherKnifeProtrusion.description>Implanta uma protusão de uma foice.</InstallScytherKnifeProtrusion.description>
+    <InstallScytherKnifeProtrusion.jobString>Implantando protusão de foice.</InstallScytherKnifeProtrusion.jobString>
+	
+  	<!-- removing body parts -->
+    
+    <RemoveBodyPart.label>remover parte</RemoveBodyPart.label>
+    <RemoveBodyPart.description>Remove a parte do corpo.</RemoveBodyPart.description>
+    <RemoveBodyPart.jobString>Removendo parte do corpo.</RemoveBodyPart.jobString>
+	
+    <RemoveMechanoidBodyPart.label>remover parte</RemoveMechanoidBodyPart.label>
+    <RemoveMechanoidBodyPart.description>Remove parte do corpo do robô.</RemoveMechanoidBodyPart.description>
+    <RemoveMechanoidBodyPart.jobString>Removen parte do robô.</RemoveMechanoidBodyPart.jobString>
+	
+  	<!-- Euthanization -->
+    
+    <Euthanize.label>eutanizar</Euthanize.label>
+    <Euthanize.description>Eutaniza.</Euthanize.description>
+    <Euthanize.jobString>A eutanizar.</Euthanize.jobString>
+	
+    <ShutDownMechanoid.label>desligar</ShutDownMechanoid.label>
+    <ShutDownMechanoid.description>Desligar-se.</ShutDownMechanoid.description>
+    <ShutDownMechanoid.jobString>Desligando robô.</ShutDownMechanoid.jobString>
+</LanguageData>

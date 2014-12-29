@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+    
+    <CremateCorpse.label>cremar corpo</CremateCorpse.label>
+    <CremateCorpse.description>Crema um corpo para destruir completamente.</CremateCorpse.description>
+    <CremateCorpse.jobString>Cremando.</CremateCorpse.jobString>
+    
+	<BurnApparel.label>queimar roupa</BurnApparel.label>
+    <BurnApparel.description>Queima a roupa para destruir completamente.</BurnApparel.description>
+    <BurnApparel.jobString>Queimando roupa.</BurnApparel.jobString>
+	
+</LanguageData>
