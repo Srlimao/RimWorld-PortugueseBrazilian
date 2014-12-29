@@ -11,7 +11,7 @@
 
   
   <!-- Gameplay -->
-  <EdgeScreenScroll>Screen-edge mouse scroll</EdgeScreenScroll>
+  <EdgeScreenScroll>Rolar mouse no canto da tela</EdgeScreenScroll>
   <CustomCursor>Cursor customizado</CustomCursor>
   <ChooseLanguage>Escolher língua</ChooseLanguage>
   <AdaptiveTutor>Tutor adaptável</AdaptiveTutor>
@@ -21,8 +21,8 @@
   <DevelopmentMode>Mode de desenvolvedor</DevelopmentMode>
   <LogDeepProfileData>Log deep profile data</LogDeepProfileData>
   <OpenSaveGameDataFolder>Abrir pasta dos arquivos salvos</OpenSaveGameDataFolder>
-  <NamesYouWantToSee>Last names of Name in Game or Backstory in Game characters you want to see:</NamesYouWantToSee>
-  <ChangeStoryteller>Escolha o contador de estórias</ChangeStoryteller>
+  <NamesYouWantToSee>Sobrenomes no Jogo ou história em jogo de personagens que quer ver:</NamesYouWantToSee>
+  <ChangeStoryteller>Escolha o contador de histórias</ChangeStoryteller>
   
   <!-- Resolution -->
   <Resolution>Resolução</Resolution>
