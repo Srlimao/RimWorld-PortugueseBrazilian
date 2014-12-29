@@ -1,29 +1,29 @@
 ﻿<?xml version="1.0" encoding="utf-8" ?>
 <LanguageData>
 
-  <JumpToLocation>Jump to location</JumpToLocation>
+  <JumpToLocation>Ir para o local</JumpToLocation>
 
-  <RelationsBrokenDown>Relations with {0} have broken down. They are now hostile to you.</RelationsBrokenDown>
-  <RelationsWarmed>Relations have with {0} have warmed. They are no longer hostile to you.</RelationsWarmed>
+  <RelationsBrokenDown>Relações com {0} foram quebradas. Eles agora são hostis.</RelationsBrokenDown>
+  <RelationsWarmed>Relações com {0} foram fortificadas. Não são mais hostis.</RelationsWarmed>
 
-  <RelationsBrokenCapture>Because you captured {0}, {1} is now your enemy.</RelationsBrokenCapture>
+  <RelationsBrokenCapture>Porque você capturou {0}, {1} agora é seu inimigo.</RelationsBrokenCapture>
 
-  <ColonyGoodwill>Colony goodwill</ColonyGoodwill>
-  <Neutral>Neutral</Neutral>
+  <ColonyGoodwill>Afeição da colônia</ColonyGoodwill>
+  <Neutral>Neutra</Neutral>
 
-  <ShortCircuitRain>A {0} has short-circuited in the rain and started a fire.</ShortCircuitRain>
-  <AreaRevealed>A new area has been revealed.</AreaRevealed>
+  <ShortCircuitRain>A {0} sofreu curto-circuito na chuva e começou um incendio.</ShortCircuitRain>
+  <AreaRevealed>Uma nova área foi revelada.</AreaRevealed>
 
-  <RoofCollapsed>A roof has collapsed because it was too far from any support.</RoofCollapsed>
-  <TheseThingsCrushed>These things were crushed:</TheseThingsCrushed>
-  <NothingCrushed>Nothing was crushed.</NothingCrushed>
+  <RoofCollapsed>O telhado desabou devido a estar muito longe de qualquer suporte.</RoofCollapsed>
+  <TheseThingsCrushed>Estas coisas foram esmagadas:</TheseThingsCrushed>
+  <NothingCrushed>Nada foi esmagado.</NothingCrushed>
   
-  <MentalBreakRampage>{0} has has a mental break and is going on a rampage.</MentalBreakRampage>
-  <MentalBreakDaze>{0} has given up and is leaving from the colony.</MentalBreakDaze>
-  <MentalBreakLeave>{0} has given up and is wandering around in a daze.</MentalBreakLeave>
+  <MentalBreakRampage>{0} teve um colapso mental e está em uma chacina.</MentalBreakRampage>
+  <MentalBreakDaze>{0} desistiu e esta indo embora da colônia.</MentalBreakDaze>
+  <MentalBreakLeave>{0} desistiu e está vagando por aí confuso.</MentalBreakLeave>
 
-  <RecruitSuccess>{0} successfully recruited {1} ({2} chance).</RecruitSuccess>
-  <RecruitFail>{0} failed to recruit {1} ({2} chance).</RecruitFail>
+  <RecruitSuccess>{0} recrutou com sucesso {1} ({2} chance).</RecruitSuccess>
+  <RecruitFail>{0} falhou ao recrutar {1} ({2} chance).</RecruitFail>
   
   
 </LanguageData>
